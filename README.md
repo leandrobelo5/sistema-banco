@@ -26,26 +26,6 @@ O sistema permite ao usuário realizar:
 
 ---
 
-## 📁 Estrutura do Projeto
-
-src/
-├── controller/
-│ └── BancoController.java
-├── dao/
-│ └── ContaDAO.java
-├── model/
-│ ├── Banco.java
-│ ├── BancoA.java
-│ ├── BancoB.java
-│ └── Conta.java
-├── util/
-│ └── Conexao.java
-└── view/
-└── Main.java
-
-
----
-
 ## 🗂️ Dados de Teste para Simulação
 
 Você pode usar os seguintes dados no menu para testar as funcionalidades do sistema:
