@@ -1,3 +1,14 @@
+# Exceptions Criadas
+
+## ContaNaoEncontradaException
+Exceção lançada quando uma conta não é encontrada pelo CPF.
+
+- **Pacote:** `exceptions`
+- **Extende:** `Exception`
+- **Uso:** lançada na busca de conta inexistente.
+- **Mensagem:** `"Conta com o CPF <cpf> não foi encontrada."`
+
+
 # 💳 Sistema Bancário em Java (MVC + JDBC + MySQL)
 
 Projeto acadêmico que simula operações bancárias simples utilizando Java 17, padrão MVC, banco de dados MySQL via XAMPP e conexão JDBC. Duas instituições bancárias são representadas com regras específicas: **BancoA** e **BancoB**.
